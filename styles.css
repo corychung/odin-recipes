@@ -1,0 +1,18 @@
+* {
+    font-family:Verdana;
+    text-align:center;
+    background-color:palegoldenrod;
+}
+
+img {
+    width:400px;
+}
+
+h1 {
+    font-size:32px;
+}
+
+li {
+    font-weight:200;
+    color:blue;
+}
